@@ -1,5 +1,5 @@
 # opencv_face_detection
-face dataset, training, recognition
+#face dataset #training #recognition
 
 This is my portfolio.
 It's a real-time face recognition project using raspberry pi.
